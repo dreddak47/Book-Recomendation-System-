@@ -2,8 +2,8 @@ It contains the Dataset Zip File. Unzip the file
 
 dataset
 
--->books.csv
+|--> books.csv
 
--->book_rating.csv
+|-->book_rating.csv
 
--->users.csv
+|-->users.csv
